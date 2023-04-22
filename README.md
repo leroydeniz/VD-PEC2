@@ -35,5 +35,12 @@ Muestra la información temporal del año, mes y día en el que se publicó una 
 Enlace al tablón [aquí](https://public.tableau.com/app/profile/leroy.deniz5318/viz/Timeline_16821974833870/Hoja1?publish=yes).
 
 
+**Visualización 3 - Contour plot**
 
+- Datos: Iris
+- Fuente: [kaggle.com](https://www.kaggle.com/datasets/uciml/iris)
+- Herramientas: RAWgraph 2.0
 
+Muestra en curvas de nivel, similar a un mapa topográfico, que reflejan la distribución entre los puntos y sus áreas de interés. En ella se puede ver la relación entre aquellos casos que están más relacionados en términos de similitud y cómo fluctúan.
+
+Enlace al tablón [aquí](https://github.com/leroydeniz/VD-PEC2/blob/main/contour_plot.png).
