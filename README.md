@@ -17,7 +17,7 @@ Muestra la información en un formato de dendrograma circular desde el centro ha
 6. Rango etario (18-21 / 22-25 / 26-30 / +30)
 7. Total de estudiantes
 
-En los nodos finales, se puede ver el total de estudiantes que cumplen esos criterior de desagregación.
+En los nodos finales, se puede ver el total de estudiantes que cumplen esos criterios de desagregación. Cada nodo tiene un tamaño proporcional a la cantidad de registros que engloba.
 
 Enlace a la imagen en alta resolución [aquí](https://github.com/leroydeniz/VD-PEC2/blob/main/circular-dendrogram.png).
 
