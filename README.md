@@ -19,4 +19,6 @@ Muestra la información en un formato de dendrograma circular desde el centro ha
 
 En los nodos finales, se puede ver el total de estudiantes que cumplen esos criterior de desagregación.
 
+Enlace a la imagen en alta resolución [https://github.com/leroydeniz/VD-PEC2/blob/main/circular-dendrogram.png](aquí).
+
 **Nota**: Dada la cantidad de información, es necesario descargar y ampliar la imagen para poder visualizar correctamente todos los datos.
