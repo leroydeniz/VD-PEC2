@@ -21,4 +21,4 @@ En los nodos finales, se puede ver el total de estudiantes que cumplen esos crit
 
 Enlace a la imagen en alta resolución [aquí](https://github.com/leroydeniz/VD-PEC2/blob/main/circular-dendrogram.png).
 
-**Nota**: Dada la cantidad de información, es necesario descargar y ampliar la imagen para poder visualizar correctamente todos los datos.
+**Nota**: Dada la cantidad de información, es conveniente descargar y ampliar la imagen para poder visualizar correctamente todos los datos.
