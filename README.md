@@ -26,6 +26,14 @@ Enlace a la imagen en alta resolución [aquí](https://github.com/leroydeniz/VD-
 
 **Visualización 2 - Timeline**
 
-- Datos: Películas de Walt Disney y su año de publicación en cartelera
+- Datos: Películas de Disney
 - Fuente: [kaggle.com](https://www.kaggle.com/datasets/prateekmaj21/disney-movies?resource=download)
 - Herramientas: Tableau Public
+
+Muestra la información temporal del año, mes y día en el que se publicó una película de la empresa The Walt Disney Company.
+
+Enlace al tablón [aquí](https://public.tableau.com/app/profile/leroy.deniz5318/viz/Timeline_16821974833870/Hoja1?publish=yes).
+
+
+
+
