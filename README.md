@@ -18,3 +18,5 @@ Muestra la información en un formato de dendrograma circular desde el centro ha
 7. Total de estudiantes
 
 En los nodos finales, se puede ver el total de estudiantes que cumplen esos criterior de desagregación.
+
+**Nota**: Dada la cantidad de información, es necesario descargar y ampliar la imagen para poder visualizar correctamente todos los datos.
