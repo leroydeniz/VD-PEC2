@@ -43,4 +43,4 @@ Enlace al tablón [aquí](https://public.tableau.com/app/profile/leroy.deniz5318
 
 Muestra en curvas de nivel, similar a un mapa topográfico, que reflejan la distribución entre los puntos y sus áreas de interés. En ella se puede ver la relación entre aquellos casos que están más relacionados en términos de similitud y cómo fluctúan.
 
-Enlace al tablón [aquí](https://github.com/leroydeniz/VD-PEC2/blob/main/contour_plot.png).
+Enlace a la imagen [aquí](https://github.com/leroydeniz/VD-PEC2/blob/main/contour_plot.png).
